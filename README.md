@@ -12,18 +12,6 @@ An end-to-end Business Intelligence solution built on **Microsoft Power BI** to 
 
 ---
 
-## 📑 Table of Contents
-1. [Business Problem & Context](#-business-problem--context)
-2. [Data Pipeline & Transformation (ETL)](#-data-pipeline--transformation-etl)
-3. [Data Modeling & Architecture](#-data-modeling--architecture)
-4. [Key DAX Measures & Formulations](#-key-dax-measures--formulations)
-5. [Dashboard Structure & Analytical Views](#-dashboard-structure--analytical-views)
-6. [Business Impact & Actionable Insights](#-business-impact--actionable-insights)
-7. [Repository File Structure](#-repository-file-structure)
-8. [Installation & Local Deployment](#-installation--local-deployment)
-
----
-
 ## 📌 Business Problem & Context
 Executive stakeholders and operations managers faced severe visibility gaps across multi-regional distribution networks:
 - **Scattered Data Records:** Over 3,000+ transaction records were stored across disparate operational flat files without centralized aggregation.
