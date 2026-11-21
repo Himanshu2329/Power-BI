@@ -1,10 +1,5 @@
 # ShopNest: E-Commerce Sales, Delivery & Revenue Analytics Dashboard
 
-[https://img.shields.io/badge/Platform-Microsoft%20Power%20BI-F2C811]
-[https://img.shields.io/badge/Language-DAX-blue]
-[https://img.shields.io/badge/ETL-Power%20Query%20(M]-green)
-[https://img.shields.io/badge/Architecture-Star%20Schema-purple]
-[https://img.shields.io/badge/Status-Portfolio%20Case%20Study-lightgrey]
 
 ## Repository Files & Naming Note
 - **`NexusGoods.pbix`** — Power BI Desktop workbook for the **ShopNest Store** dashboard *(saved under the working filename `NexusGoods.pbix`; all report pages, branding, and visuals inside the file belong to the ShopNest case study)*.
@@ -16,7 +11,8 @@
 
 
 ### Delayed vs. On-Time Orders
-<img width="940" height="869" alt="image" src="https://github.com/user-attachments/assets/0e678e9d-ad06-449f-970a-a44b856aa5c1" />
+<img width="840" height="703" alt="image" src="https://github.com/user-attachments/assets/25f21b37-ec4c-45db-972b-00c571a7c9fa" />
+
 
 
 ### State-Wise Sales Analysis
